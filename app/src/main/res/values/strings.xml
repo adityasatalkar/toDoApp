@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">toDo</string>
+    <string name="add">Add</string>
+    <string name="resource_add_item">Add a new item...</string>
+    <string name="Task" />
+    <string name="task">Task</string>
+    <string name="Name">Name:</string>
+    <string name="priority">Priority  :</string>
+</resources>
